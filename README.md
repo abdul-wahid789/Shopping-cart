@@ -3,4 +3,4 @@ This is a assignment to add item from `div`  to another `div`. The content are u
 BootStrap has been used to work faster and some responsiveness.
 
 Use this command to clone this branch  
-`git clone -b Shopping-Cart https://github.com/abdul-wahid789/WebDevPractice.git`
+`git clone https://github.com/abdul-wahid789/Shopping-cart`
